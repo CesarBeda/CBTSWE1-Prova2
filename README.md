@@ -61,6 +61,6 @@ Armazena os dados de cada ordem de venda, ligando um cliente a um vendedor.
 
 # 🎬 Vídeo Completo da Aplicação (MP4)
 
-Para assistir ao vídeo completo da aplicação em alta qualidade ou para fazer o download, utilize o link abaixo.
+Para assistir ao vídeo completo da aplicação:
 
-**[▶️ Assistir / Baixar Vídeo Completo (prova.mp4)](./CBTSWE1-Prova02.mp4)**
+Link para youtube será adicionado em breve

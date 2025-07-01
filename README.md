@@ -63,4 +63,4 @@ Armazena os dados de cada ordem de venda, ligando um cliente a um vendedor.
 
 Para assistir ao vídeo completo da aplicação:
 
-Link para youtube será adicionado em breve
+Link: https://youtu.be/Gsf6M2XncT8
